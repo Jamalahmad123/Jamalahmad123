@@ -10,7 +10,7 @@ I'm a Frontend Developer. I love making websites that are accessible and usable,
 - 🎽 Love Runing and sometimes crickect
 
 ## Skills
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,tailwindcss,sass,firebase,vite)](https://skillicons.dev)
 
 <!---
 Jamalahmad123/Jamalahmad123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
